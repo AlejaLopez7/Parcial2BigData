@@ -1,0 +1,118 @@
+1635031349318	geckodriver	INFO	Listening on 127.0.0.1:51708
+1635031352176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51709" "-no-remote" "-profile" "C:\\Users\\ALEJAN~1.LOP\\AppData\\Local\\Temp\\rust_mozprofilensLQaZ"
+1635031354019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alejandra.lopez\\AppData\\Local\\Temp\\rust_mozprofilensLQaZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51709/devtools/browser/95c770b4-5310-43c6-94bb-b3c5ad204319
+1635031359905	Marionette	INFO	Listening on port 52099
+1635031360384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036588499	Marionette	INFO	Stopped listening on port 52099
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+mozprofilek6m7hm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61775/devtools/browser/e4faa305-5cc6-4a72-ae36-63e87a7455f1
+1635032399528	Marionette	INFO	Listening on port 49738
+1635032400061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036583957	Marionette	INFO	Stopped listening on port 49738
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/browser/82c941c7-1a1e-45e5-8de9-5ca13b9b45bc
+1635032995462	Marionette	INFO	Listening on port 51555
+1635032995915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036585541	Marionette	INFO	Stopped listening on port 51555
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/browser/740fbc9b-2fe7-4b09-ab6a-7bc548cbb5dc
+1635034019325	Marionette	INFO	Listening on port 57839
+1635034019366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036586916	Marionette	INFO	Stopped listening on port 57839
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/browser/c7e4e845-85fb-4863-a5be-33c92aa64aa3
+1635035511369	Marionette	INFO	Listening on port 54922
+1635035511808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036589386	Marionette	INFO	Stopped listening on port 54922
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036590156	Marionette	INFO	Stopped listening on port 59046
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+errors will be ignored for this session
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635036593677	Marionette	INFO	Stopped listening on port 55261
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/browser/092d254f-ae57-4d23-b965-7a690b0a1bdc
+1635036547868	Marionette	INFO	Listening on port 64832
+1635036547974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635036595454	Marionette	INFO	Stopped listening on port 64832
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635036644419	geckodriver	INFO	Listening on 127.0.0.1:62970
+1635036647441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62971" "-no-remote" "-profile" "C:\\Users\\ALEJAN~1.LOP\\AppData\\Local\\Temp\\rust_mozprofileyWGTES"
+1635036648973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alejandra.lopez\\AppData\\Local\\Temp\\rust_mozprofileyWGTES\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62971/devtools/browser/e89d277b-87b0-4f9a-b27d-1c7c409d3e6f
+1635036654173	Marionette	INFO	Listening on port 49257
+1635036654548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+1635037840762	Marionette	INFO	Stopped listening on port 49257
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/browser/66f91496-bdfc-4b00-85f0-906848e523f3
+1635037497653	Marionette	INFO	Listening on port 58808
+1635037498209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635037842026	Marionette	INFO	Stopped listening on port 58808
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.274877907099
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
